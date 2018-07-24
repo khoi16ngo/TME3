@@ -1,0 +1,11 @@
+Event=ThermostatNight,time=0
+Event=LightOn,time=2000
+Event=WaterOff,time=10000
+Event=ThermostatDay,time=12000
+Event=Bell,time=9000,rings=5
+Event=WaterOn,time=6000
+Event=LightOff,time=4000
+Event=Terminate,time=20000
+Event=FansOn,time=7000
+Event=PowerOut,time=10500
+Event=FansOff,time=8000
