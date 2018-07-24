@@ -1,0 +1,8 @@
+Event=ThermostatNight,time=0
+Event=LightOn,time=2000
+Event=WaterOff,time=8000
+Event=ThermostatDay,time=10000
+Event=Bell,time=9000
+Event=WaterOn,time=6000
+Event=LightOff,time=4000
+Event=Terminate,time=12000
